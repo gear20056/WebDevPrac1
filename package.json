@@ -1,0 +1,22 @@
+{
+  "name": "webdevprac1",
+  "version": "1.0.0",
+  "description": "init npm for WebDevPrac1 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gear20056/WebDevPrac1.git"
+  },
+  "author": "Chayathorn Lorkanchanakul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gear20056/WebDevPrac1/issues"
+  },
+  "homepage": "https://github.com/gear20056/WebDevPrac1#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
